@@ -1,0 +1,24 @@
+[
+    {"source": "app/assistants/app-assistant.js"},
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "GenerateNumber",
+        "source": "app/assistants/GenerateNumber-assistant.js"
+    },
+    {
+        "scenes": "GenerateSeries",
+        "source": "app/assistants/GenerateSeries-assistant.js"
+    },
+    {
+        "scenes": "GenerateCoin",
+        "source": "app/assistants/GenerateCoin-assistant.js"
+    },
+    {
+        "scenes": "GenerateTicket",
+        "source": "app/assistants/GenerateTicket-assistant.js"
+    },
+    {
+        "scenes": "About",
+        "source": "app/assistants/About-assistant.js"
+    }
+]

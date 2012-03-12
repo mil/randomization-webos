@@ -1,0 +1,146 @@
+#logo-top-left {
+	float: left;
+	margin: 10px;
+	margin-top: 4px;
+}
+
+
+.slidersContainer {
+    margin-left: -15px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+
+.twoSectionContainer {
+    overflow: hidden;
+}
+
+.oneSection {
+    width:85px;
+    float:left;
+    clear:none;
+}
+
+.oneSectionButton {
+    width: 160px;
+    float: left;
+    clear: none;
+}
+
+#upperBoundSlider {
+    margin-top: -14px;
+}
+
+/* Results Div */
+.result {
+	overflow: hidden;
+}
+.result #numberResult {
+    float: left;
+    font-size: 40px;
+    color: #333333;
+	width: 140px;
+	word-wrap: break-word;
+	border-right: 1px solid gray;
+	padding-right: 8px;
+
+
+}
+.result #timeStamp {
+    float: right;
+    font-size: 13px;
+    width: 100px;
+    padding-left: 20px;
+    color: #1C1D21;
+	word-wrap: break-word;
+
+}
+
+#resultsArea {
+    display: none;
+}
+
+#resultsArea.visible {
+    display: block !important;
+}
+
+/* Coin Flips! */
+
+
+#resultsArea #numberResult.coin  {
+	font-size: 18px;
+}
+
+#coin-container {
+	margin-top: 8px;
+
+}
+
+#coin-container .coin-flip-heads {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background: url('../images/coin/heads.png');
+	margin-right: 3px;
+}
+
+#coin-container .coin-flip-tails {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background: url('../images/coin/tails.png');
+	margin-right: 3px;
+}
+
+
+
+/* Series :) */
+
+#resultsArea #numberResult.series  {
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+/* Temporary CSS for Coming Soon Section */
+#comingSoon .title {
+	display: block;
+	font-size:19px;
+    color: #333333;
+}
+
+#comingSoon .desc {
+	display: block;
+	font-size: 14px;
+    color: #333333;
+}
+
+/* Temporary CSS for Coming Soon Section */
+#about .title {
+	display: block;
+	font-size:19px;
+    color: #333333;
+}
+
+#about .desc {
+	display: block;
+	font-size: 16px;
+    color: #333333;
+	margin-bottom: 10px;
+}
+
+
+
+.clear-container {
+    clear: both;
+    overflow: hidden;
+}
+
+.leftCaption {
+    font-size: 17px !important;
+}

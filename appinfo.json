@@ -1,0 +1,9 @@
+{
+	"id": "com.userbound.randomization",
+	"version": "1.0.0",
+	"vendor": "Randomization",
+	"type": "web",
+	"main": "index.html",
+	"title": "Randomization",
+	"icon": "icon.png"
+}
