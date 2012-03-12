@@ -16,4 +16,4 @@ Screenshots
 ![Series Screenshot](https://github.com/mil/randomization-webos/raw/master/images/screenshots/series.png)
 ![Coin Screenshot](https://github.com/mil/randomization-webos/raw/master/images/screenshots/coin.png)
 ![Lottery Screenshot](https://github.com/mil/randomization-webos/raw/master/images/screenshots/lottery.png)
-![About Screenshot](https://github.com/mil/randomization-webos/raw/master/images/screenshots/about.png
+![About Screenshot](https://github.com/mil/randomization-webos/raw/master/images/screenshots/about.png)
