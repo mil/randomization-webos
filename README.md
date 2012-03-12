@@ -13,7 +13,7 @@ I wanted to be random. Oh so random. I was at a point where I was checking Rando
 Screenshots
 -----------
 ![Number Screenshot](https://github.com/mil/randomization-webos/raw/master/images/screenshots/number.png)
-![Series Screenshot](https://github.com/mil/randomization-webos/raw/master/images/screenshots/series.png) {float: right }
+![Series Screenshot](https://github.com/mil/randomization-webos/raw/master/images/screenshots/series.png)
 ![Coin Screenshot](https://github.com/mil/randomization-webos/raw/master/images/screenshots/coin.png)
-![Lottery Screenshot](https://github.com/mil/randomization-webos/raw/master/images/screenshots/lottery.png) {float: right }
-![About Screenshot](https://github.com/mil/randomization-webos/raw/master/images/screenshots/about.png)
+![Lottery Screenshot](https://github.com/mil/randomization-webos/raw/master/images/screenshots/lottery.png)
+![About Screenshot](https://github.com/mil/randomization-webos/raw/master/images/screenshots/about.png
